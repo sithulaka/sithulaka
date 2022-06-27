@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @sithulaka
 - 👀 I am interested in AI technology
 - 🌱 I’m currently learning python language
-- dizzy I am a beginner developer. city_sunset
