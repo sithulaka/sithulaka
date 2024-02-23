@@ -7,3 +7,14 @@
  ##### 🌱 I’m currently learning **Python & Ux/Ui**
 
  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sithulaka.sithulaka" />
+
+<hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,javascript,docker,raspberrypi,html,css,linux,vscode,github,figma," /><br>
+</div>
+
+<br/>
+<hr/>
