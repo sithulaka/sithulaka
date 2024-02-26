@@ -36,11 +36,11 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/senithu-sithulaka-503401253" target="blank"><img align="center" src="https://github.com/sithulaka/sithulaka/image/icon/linked-in-alt.svg" alt="sithulaka" height="30" width="40" /></a>
-<a href="https://twitter.com/sithulaka" target="blank"><img align="center" src="https://github.com/sithulaka/sithulaka/image/icon/twitter.svg" alt="sithulaka" height="30" width="40" /></a>
-<a href="https://fb.com/senithu.sithulaka.7" target="blank"><img align="center" src="https://github.com/sithulaka/sithulaka/image/icon/facebook.svg" alt="sithulaka" height="30" width="40" /></a>
-<a href="https://instagram.com/_sithulaka_" target="blank"><img align="center" src="https://github.com/sithulaka/sithulaka/image/icon/instagram.svg" alt="sithulaka" height="30" width="40" /></a>
-<a href="https://discord.gg/ugdvth5b6H" target="blank"><img align="center" src="https://github.com/sithulaka/sithulaka/image/icon/discord.svg" alt="sithulaka" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/senithu-sithulaka-503401253" target="blank"><img align="center" src="https://github.com/sithulaka/sithulaka/blob/main/image/icon/linked-in-alt.svg" alt="sithulaka" height="30" width="40" /></a>
+<a href="https://twitter.com/sithulaka" target="blank"><img align="center" src="https://github.com/sithulaka/sithulaka/blob/main/image/icon/twitter.svg" alt="sithulaka" height="30" width="40" /></a>
+<a href="https://fb.com/senithu.sithulaka.7" target="blank"><img align="center" src="https://github.com/sithulaka/sithulaka/blob/main/image/icon/facebook.svg" alt="sithulaka" height="30" width="40" /></a>
+<a href="https://instagram.com/_sithulaka_" target="blank"><img align="center" src="https://github.com/sithulaka/sithulaka/blob/main/image/icon/instagram.svg" alt="sithulaka" height="30" width="40" /></a>
+<!-- <a href="https://discord.gg/ugdvth5b6H" target="blank"><img align="center" src="https://github.com/sithulaka/sithulaka/blob/main/image/icon/discord.svg" alt="sithulaka" height="30" width="40" /></a> -->
 </p><br>
 
 <!-- ### Support:
