@@ -3,7 +3,14 @@
 </h1>
 
 <h3 align="center">A Passionate Developer from Sri Lanka 🇱🇰</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sithulaka&label=Profile%20views&color=0e75b6&style=flat" alt="sithulaka"/> </p>
+<p align="center"> 
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/sithulaka">
+    <img src="https://komarev.com/ghpvc/?username=sithulaka&label=Profile%20views&color=0e75b6&style=flat" alt="sithulaka"/>
+<!--     <img alt="GitHub followers" src="https://img.shields.io/github/followers/sithulaka"> -->
+<!--     <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/sithulaka"> -->
+    <img alt="Discord" src="https://img.shields.io/discord/1029672298032140290">
+</p>
+
  
  #### 🔭 I am a beginner developer.
  
