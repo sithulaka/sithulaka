@@ -3,7 +3,14 @@
 </h1>
 
 <h3 align="center">A Passionate Developer from Sri Lanka 🇱🇰</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sithulaka&label=Profile%20views&color=0e75b6&style=flat" alt="sithulaka"/> </p>
+<p align="center"> 
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/sithulaka">
+    <img src="https://komarev.com/ghpvc/?username=sithulaka&label=Profile%20views&color=0e75b6&style=flat" alt="sithulaka"/>
+<!--     <img alt="GitHub followers" src="https://img.shields.io/github/followers/sithulaka"> -->
+<!--     <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/sithulaka"> -->
+    <img alt="Discord" src="https://img.shields.io/discord/1029672298032140290">
+</p>
+
  
  #### 🔭 I am a beginner developer.
  
@@ -29,10 +36,11 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/senithu-sithulaka-503401253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sithulaka" height="30" width="40" /></a>
-<a href="https://twitter.com/sithulaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sithulaka" height="30" width="40" /></a>
-<a href="https://fb.com/senithu.sithulaka.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sithulaka" height="30" width="40" /></a>
-<a href="https://instagram.com/_sithulaka_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sithulaka" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/senithu-sithulaka-503401253" target="blank"><img align="center" src="https://github.com/sithulaka/sithulaka/image/icon/linked-in-alt.svg" alt="sithulaka" height="30" width="40" /></a>
+<a href="https://twitter.com/sithulaka" target="blank"><img align="center" src="https://github.com/sithulaka/sithulaka/image/icon/twitter.svg" alt="sithulaka" height="30" width="40" /></a>
+<a href="https://fb.com/senithu.sithulaka.7" target="blank"><img align="center" src="https://github.com/sithulaka/sithulaka/image/icon/facebook.svg" alt="sithulaka" height="30" width="40" /></a>
+<a href="https://instagram.com/_sithulaka_" target="blank"><img align="center" src="https://github.com/sithulaka/sithulaka/image/icon/instagram.svg" alt="sithulaka" height="30" width="40" /></a>
+<a href="https://discord.gg/ugdvth5b6H" target="blank"><img align="center" src="https://github.com/sithulaka/sithulaka/image/icon/discord.svg" alt="sithulaka" height="30" width="40" /></a>
 </p><br>
 
 <!-- ### Support:
