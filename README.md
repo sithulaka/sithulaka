@@ -8,7 +8,7 @@
     <img src="https://komarev.com/ghpvc/?username=sithulaka&label=Profile%20views&color=0e75b6&style=flat" alt="sithulaka"/>
 <!--     <img alt="GitHub followers" src="https://img.shields.io/github/followers/sithulaka"> -->
 <!--     <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/sithulaka"> -->
-    <img alt="Discord" src="https://img.shields.io/discord/1029672298032140290">
+    <a href="https://discord.gg/ugdvth5b6H" target="blank"><img alt="Discord" src="https://img.shields.io/discord/1029672298032140290"></a>
 </p>
 
  
