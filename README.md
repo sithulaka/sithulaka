@@ -14,7 +14,7 @@
  
  #### 🔭 I am a beginner developer.
  
- #### 🌱 I’m currently learning **Python & Ux/Ui.**
+ #### 🌱 I’m currently learning **TypeScript & MERN Stack.**
  
 <hr>
 
