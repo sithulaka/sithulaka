@@ -29,6 +29,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sithulaka&show_icons=true&locale=en&theme=dark" alt="sithulaka" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sithulaka&theme=dark" alt="sithulaka" /></p><br><hr>
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sithulaka&theme=dark)](https://git.io/streak-stats)
+
+
 ### 🏆 <b>GitHub Awards</b>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=sithulaka)
