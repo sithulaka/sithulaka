@@ -30,9 +30,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sithulaka&theme=dark" alt="sithulaka" /></p><br><hr>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sithulaka&theme=dark)](https://git.io/streak-stats)
-
-
 ### 🏆 <b>GitHub Awards</b>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=sithulaka)
