@@ -31,7 +31,7 @@
  
 ### My Stats:
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithulaka&show_icons=true&locale=en&layout=compact&theme=dark" alt="sithulaka" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sithulaka&theme=darkhub&column=7" alt="Github Trophy" />
     <br><br>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=sithulaka&show_icons=true&locale=en&theme=dark" alt="sithulaka" />
     <br><br>
