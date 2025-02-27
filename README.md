@@ -30,13 +30,14 @@
 <hr>
  
 ### My Stats:
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=sithulaka&theme=darkhub&column=7" alt="Github Trophy" />
-    <br><br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sithulaka&show_icons=true&locale=en&theme=dark" alt="sithulaka" />
-    <br><br>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sithulaka&theme=dark" alt="sithulaka" />
+<div>
+    <a href="https://github.com/sithulaka">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithulaka&layout=compact&theme=dark" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sithulaka&show_icons=true&theme=dark" />
+    </a>
 </div>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sithulaka&theme=dark" alt="sithulaka" /></p>
 
 <hr>
 
