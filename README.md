@@ -4,68 +4,66 @@
 
 <h3 align="center">A Passionate Developer from Sri Lanka 🇱🇰</h3>
 
-<p align="center">
+<p align="center"> 
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/sithulaka">
     <img src="https://komarev.com/ghpvc/?username=sithulaka&label=Profile%20views&color=0e75b6&style=flat" alt="sithulaka"/>
-    <a href="https://discord.gg/ugdvth5b6H" target="blank">
+    <a href="https://discord.gg/ugdvth5b6H" target="_blank">
         <img alt="Discord" src="https://img.shields.io/discord/1029672298032140290">
     </a>
 </p>
 
 ---
 
-## 🚀 About Me  
-🔭 I am a **beginner developer** exploring the world of **C++ & MERN Stack**.  
-🌱 I’m currently learning **C++, React, Node.js, and MongoDB**.  
-💡 Passionate about **Cybersecurity, Ethical Hacking, and AI**.  
+### 🔭 I am a beginner developer.  
+### 🌱 I’m currently learning **C++ & MERN Stack.**  
 
 ---
 
-## 🛠️ Languages & Tools  
+### 🛠️ Languages and Tools:
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,raspberrypi,linux,bash,kali,cpp,docker,html,css,js,react,nodejs,mongodb,vscode,github,figma" />
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sithulaka&show_icons=true&locale=en&theme=dark" alt="sithulaka" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithulaka&show_icons=true&locale=en&layout=compact&theme=dark" alt="sithulaka"/>
-</p>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sithulaka&theme=dark" alt="sithulaka" />
+    <img src="https://skillicons.dev/icons?i=python,raspberrypi,linux,bash,kali,cpp,docker,html,vscode,github,figma" />
 </p>
 
 ---
 
-## 🏆 GitHub Awards  
+### 📊 My Stats:
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=sithulaka&theme=darkhub&margin-w=15&no-bg=true" alt="sithulaka" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithulaka&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sithulaka&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sithulaka&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+### 🏆 GitHub Awards:
 
 <p align="center">
-    <a href="https://linkedin.com/in/sithulaka" target="blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sithulaka" alt="GitHub Trophy" />
+</p>
+
+---
+
+### 🌐 Connect with me:
+
+<p align="center">
+    <a href="https://linkedin.com/in/sithulaka" target="_blank">
+        <img align="center" src="https://github.com/sithulaka/sithulaka/blob/main/image/icon/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
-    <a href="https://twitter.com/sithulaka" target="blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <a href="https://twitter.com/sithulaka" target="_blank">
+        <img align="center" src="https://github.com/sithulaka/sithulaka/blob/main/image/icon/twitter.svg" alt="Twitter" height="30" width="40" />
     </a>
-    <a href="https://fb.com/senithu.sithulaka.7" target="blank">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <a href="https://fb.com/senithu.sithulaka.7" target="_blank">
+        <img align="center" src="https://github.com/sithulaka/sithulaka/blob/main/image/icon/facebook.svg" alt="Facebook" height="30" width="40" />
     </a>
-    <a href="https://instagram.com/_sithulaka_" target="blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <a href="https://instagram.com/_sithulaka_" target="_blank">
+        <img align="center" src="https://github.com/sithulaka/sithulaka/blob/main/image/icon/instagram.svg" alt="Instagram" height="30" width="40" />
     </a>
 </p>
