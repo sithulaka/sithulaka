@@ -20,7 +20,7 @@
 
  ### Languages and Tools:
  <br>
- <img src="https://skillicons.dev/icons?i=python,raspberrypi,linux,docker,html,css,javascript,vscode,github,figma," />
+ <img src="https://skillicons.dev/icons?i=bash,cpp,python,raspberrypi,linux,kali,docker,javascript,vscode,github,figma," />
  <hr>
  
  ### My Stats:
