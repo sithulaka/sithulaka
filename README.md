@@ -54,7 +54,7 @@ struct Sithulaka {
     <img width="400px" src="https://opengraph.githubassets.com/1/sithulaka/8-bit-ALU-Implementation" alt="8-bit-ALU-Implementation" />
   </a>
   <a href="https://github.com/sithulaka/cpp-learning-projects">
-    <img width="400px" src="https://opengraph.githubassets.com/1/sithulaka/cpp-learning-projects" alt="cpp-learning-projects" />
+    <img width="400px" src="https://opengraph.githubassets.com/2/sithulaka/cpp-learning-projects" alt="cpp-learning-projects" />
   </a>
 </div></br>
 
