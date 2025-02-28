@@ -40,12 +40,12 @@ struct Sithulaka {
 
 ## 🖥️ performance_metrics.log  
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithulaka&layout=compact&theme=dark" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithulaka&layout=compact&theme=dark" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sithulaka&theme=dark&rank_icon=github" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sithulaka&theme=dark" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sithulaka&theme=dark&rank_icon=github" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=sithulaka&theme=dark" />
 </div></br>
 
 ## 🚀 featured_projects.exe
