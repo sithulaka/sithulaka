@@ -77,10 +77,10 @@ echo "→ Customizing WordPress & WooCommerce for e-commerce solutions"
 
 ## 📡 connection_interfaces.json
 <div align="center">
-  <a href="https://linkedin.com/in/sithulaka" target="_blank"><img src="https://github.com/sithulaka/sithulaka/blob/main/image/icon/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://twitter.com/sithulaka" target="_blank"><img src="https://github.com/sithulaka/sithulaka/blob/main/image/icon/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://fb.com/senithu.sithulaka.7" target="_blank"><img src="https://github.com/sithulaka/sithulaka/blob/main/image/icon/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://instagram.com/_sithulaka_" target="_blank"><img src="https://github.com/sithulaka/sithulaka/blob/main/image/icon/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sithulaka" target="_blank"><img src="https://github.com/sithulaka/sithulaka/blob/main/image/icon/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
+  <a href="https://twitter.com/sithulaka" target="_blank"><img src="https://github.com/sithulaka/sithulaka/blob/main/image/icon/twitter.svg" alt="Twitter" height="40" width="40" /></a>
+  <a href="https://fb.com/senithu.sithulaka.7" target="_blank"><img src="https://github.com/sithulaka/sithulaka/blob/main/image/icon/facebook.svg" alt="Facebook" height="40" width="40" /></a>
+  <a href="https://instagram.com/_sithulaka_" target="_blank"><img src="https://github.com/sithulaka/sithulaka/blob/main/image/icon/instagram.svg" alt="Instagram" height="40" width="40" /></a>
 </div></br></br>
 
 <div align="center">
