@@ -50,8 +50,8 @@ struct Sithulaka {
 
 ## 🚀 featured_projects.exe
 <div align="center">
-  <a href="https://github.com/sithulaka/LTC_Timecode_Generator">
-    <img width="400px" src="https://opengraph.githubassets.com/1/sithulaka/LTC_Timecode_Generator" alt="LTC_Timecode_Generator" />
+  <a href="https://github.com/sithulaka/mdns_device_discovery">
+    <img width="400px" src="https://opengraph.githubassets.com/1/sithulaka/mdns_device_discovery" alt="mdns_device_discovery" />
   </a>
   <a href="https://github.com/sithulaka/cpp-learning-projects">
     <img width="400px" src="https://opengraph.githubassets.com/2/sithulaka/cpp-learning-projects" alt="cpp-learning-projects" />
