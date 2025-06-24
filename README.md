@@ -53,8 +53,8 @@ struct Sithulaka {
   <a href="https://github.com/sithulaka/mdns_device_discovery">
     <img width="400px" src="https://opengraph.githubassets.com/1/sithulaka/mdns_device_discovery" alt="mdns_device_discovery" />
   </a>
-  <a href="https://github.com/sithulaka/cpp-learning-projects">
-    <img width="400px" src="https://opengraph.githubassets.com/2/sithulaka/cpp-learning-projects" alt="cpp-learning-projects" />
+  <a href="https://github.com/sithulaka/PicoLED_ProtocolBridge">
+    <img width="400px" src="https://opengraph.githubassets.com/2/sithulaka/PicoLED_ProtocolBridge" alt="PicoLED_ProtocolBridge" />
   </a>
 </div></br>
 
