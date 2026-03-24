@@ -11,7 +11,7 @@
 
 <div align="center">
   <p>🔭 I am a beginner developer.</p>
-  <p>🌱 I'm currently learning <strong>C++ & MERN Stack.</strong></p>
+  <p>🌱 I'm currently learning <strong>DevOps & Solutions Architect.</strong></p>
 </div> 
 
 ## 🧑‍💻 about_me.h
@@ -29,13 +29,13 @@ struct Sithulaka {
 ## 🧠 core_skills.sys
 <div align="center">
   <h3>💻 Languages</h3>
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,bash"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,typescript,nodejs,bash"/>
   
   <h3>🧰 Tools & Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux,raspberrypi,kali,figma"/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux,raspberrypi,kali,cloudflare"/>
   
   <h3>🌱 Currently Learning</h3>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,express,mongodb"/>
 </div></br>
 
 ## 🖥️ performance_metrics.log  
@@ -64,15 +64,15 @@ struct Sithulaka {
 echo "Currently working on:"
 echo "→ Mastering the MERN stack architecture"
 echo "→ Practicing C++ and working with Raspberry Pi Pico"
-echo "→ Learning and developing an ERP software with AI"
+echo "→ Learning DevOps & Solutions Architect with AI"
 echo "→ Expanding knowledge in ethical hacking and reverse engineering"
-echo "→ Customizing WordPress & WooCommerce for e-commerce solutions"
+echo "→ building the SAAS solutions"
 ```
 </br>
 
 ## 🏆 system_achievements.log
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sithulaka&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="Github Trophy" />
+  <img src="https://github-trophies.vercel.app/?username=sithulaka&theme=darkhub&column=6&margin-w=15&margin-h=15" alt="Github Trophy" />
 </div></br>
 
 ## 📡 connection_interfaces.json
